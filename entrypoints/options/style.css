@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.input {
+  @apply w-full rounded-lg border border-gray-200 bg-gray-50/50 px-3 py-2 text-sm leading-relaxed focus:border-gray-400 focus:bg-white focus:outline-none;
+}
